@@ -39,13 +39,6 @@ form.addEventListener("submit", function (e) {
 
     });
 
-new QRCode(document.getElementById("qrcode"), {
-    text: "https://personalportofoli.netlify.app/",
-    width: 180,
-    height: 180,
-    colorDark: "#00e0ff",
-    colorLight: "#ffffff",
-});
 
 
 });

@@ -552,11 +552,4 @@ html, body {
     overflow-x: hidden;
 }
 
-#qrcode{
-    margin-top:20px;
-    padding:15px;
-    background:#fff;
-    display:inline-block;
-    border-radius:15px;
-    box-shadow:0 10px 30px rgba(0,0,0,0.3);
-}
+
